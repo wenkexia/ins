@@ -1,33 +1,15 @@
-# INS 🍭 
+# INS 🍭
 
 开源**灵感**数据库，免费无广告，Github Actions自动检测网址访问速度~
+本仓库克隆自(https://github.com/zhaoolee/ins)
 ## 目录
 
 (点击可直达)
 
 <a href='#在线工具'>在线工具(19)</a>, <a href='#极客'>极客(21)</a>, <a href='#电子书'>电子书(3)</a>, <a href='#游戏'>游戏(10)</a>, <a href='#课程'>课程(11)</a>, <a href='#信息流'>信息流(21)</a>, <a href='#健身'>健身(2)</a>, <a href='#音乐'>音乐(5)</a>, <a href='#设计'>设计(9)</a>, <a href='#摄影'>摄影(12)</a>, <a href='#手机'>手机(7)</a>, <a href='#bbs'>bbs(9)</a>, <a href='#每日常逛'>每日常逛(12)</a>, <a href='#开源资讯'>开源资讯(3)</a>, <a href='#资源集市'>资源集市(20)</a>, <a href='#小姐姐'>小姐姐(5)</a>, <a href='#字体'>字体(7)</a>, <a href='#壁纸'>壁纸(4)</a>, <a href='#白噪音'>白噪音(2)</a>, <a href='#评测'>评测(2)</a>
 
-[切换宽屏模式](https://zhaoolee.com/ins/#目录)
 
-![INS灵感](https://raw.githubusercontent.com/zhaoolee/ins/master/media/ins.png)
 
-> 本项目VI由方圆STU创始人[老罗巴扎嘿](https://huaban.com/user/syy946795671)提供设计
-
-## 何为灵感 （◐ˍ◑）
-
-- **灵感**是文艺、科技活动中瞬间产生的富有创造性的突发思维状态，无意识中突然兴起的神妙能力（某度）
-- **灵感**是根据自己的经历而联想到的一种创造性思维活动 (维基)
-- **灵感**是**发现新世界**（省流）
-
-![kokomi_teruhashi](https://raw.githubusercontent.com/zhaoolee/ins/master/media/kokomi_teruhashi.png)
-
-> 王勃：以法师智遗人我，识洞幽明，思假妙因，冀通**灵感(ins)**。
-
-## 这个INS项目有什么用？(ﾟ▽ﾟ)/
-
-构建优秀产品，需要灵感，**艺术的第一步都是模仿临摹, 天才也难以逾越信息差的高墙，站在巨人的肩膀上会事半功倍**，这个仓库的目标是收集灵感，追踪存活的灵感，复活陨落的灵感。
-
-INS项目的灵感来自 [**阮一峰的网络日志 之 科技爱好者周刊**](https://www.ruanyifeng.com/blog/weekly/)，周刊每期都会带一些给读者带来灵感的项目，但没有给出方便查阅的项目导航列表，以及活跃项目持续追踪功能，于是本INS项目诞生了。
 
 ## INS项目运作机制（￣︶￣）↗
 
@@ -36,17 +18,7 @@ zhaoolee往项目根目录的 [website_info.csv](https://github.com/zhaoolee/ins
 
 显示红灯的项目，可能本身是个好项目，但由于种种原因搞不下去了，如果你能搞出替代品，欢迎在[issues](https://github.com/zhaoolee/ins/issues)中留言，本项目会积极收录。
 
-## 下载(⊙ˍ⊙)
 
-纯净核心csv数据全量下载: [https://raw.githubusercontent.com/zhaoolee/ins/main/website_info.csv](https://raw.githubusercontent.com/zhaoolee/ins/main/website_info.csv)
-
-在线CDN版本: [https://cdn.jsdelivr.net/gh/zhaoolee/ins/website_info.csv](https://cdn.jsdelivr.net/gh/zhaoolee/ins/website_info.csv)
-
-如果你想复刻本项目, 建立**灵感之外**的主题仓库, 欢迎克隆本项目进行魔改。 
-
-```shell
-git clone --depth=1 https://github.com/zhaoolee/ins
-```
 
 ## 推荐打开的正确姿势
 
