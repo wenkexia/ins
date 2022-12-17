@@ -60,16 +60,11 @@ Url,Name,Description,Tag
 "https://greasyfork.org/zh-CN/scripts?sort=total_installs","油猴脚本","油猴脚本安装量排行榜","极客;"
 "https://github.com/zhaoolee/pi","树莓派防吃灰","通过内网穿透,将信用卡尺寸的树莓派变成在线服务器,搭建公网访问的WordPress网站,smb,aria2,资源下载服务","极客;"
 "https://www.youtube.com/user/cafemusicbgmchannel","咖啡时光","YouTube知名咖啡音乐频道,极好的居家办公娱乐BGM","音乐;每日常逛;"
-"https://imisstheoffice.eu/","办公室白噪音模拟器","996福报模拟器","白噪音;"
 "https://wallhaven.cc/","Wallhaven","据说是互联网上最好的壁纸站","壁纸;每日常逛;"
-"https://tg.lv5.ac/","太鼓达人","太鼓达人在线模拟器","游戏;"
 "http://listen1.github.io/listen1/","Listen1","曲库最丰富的互联网音乐播放器Listen 1可以搜索和播放来自网易云音乐,QQ音乐,酷狗音乐,酷我音乐,Bilibili,咪咕音乐网站的歌曲，让你的曲库更全面","音乐;每日常逛;"
-"https://liferestart.syaro.io/public/index.html","人生重开模拟器","文字版模拟人生","游戏;在线工具;"
-"https://nuclearsecrecy.com/nukemap/","核爆模拟器","选择真实世界的城市真实的核武器模拟器核爆,愿世界和平","游戏;在线工具;"
 "https://www.tree.fm/","森林的声音","随机森林白噪音,支持下载","音乐;"
 "https://www.codingfont.com/","编程字体","挑选自己喜欢的编程字体","资源集市;"
 "http://pf.bigpixel.cn/zh-CN/city/1.html","大像素","千亿像素看世界","摄影;"
-"https://yesno.wtf/","YesOrNo","随机返回Yes或No","在线工具;"
 "https://anime-pictures.net/","二次元妹子","二次元妹子图片站","小姐姐;每日常逛;"
 "https://atelier-anchor.com/typefaces/smiley-sans/","得意黑","得意黑,开源弧线窄斜中文字体","字体;"
 "https://www.dtshot.com/","DT Shot","无损音乐下载论坛","音乐;bbs;"
@@ -110,7 +105,6 @@ Url,Name,Description,Tag
 "https://twitter.com/Gavmn","Gavin","一个热衷研究重制各种App图标设计及实现的设计师,在实践中塑造出独属自己的技术和审美","设计;"
 "https://csdiy.wiki/","CS自学指南","网罗国内外大学优质课程的计算机科学自学指南","课程;"
 "https://course.rs/about-book.html","Rust语言圣经(Rust Course)","优质的中文Rust教程","课程;"
-"https://www.runoob.com/","菜鸟教程","中文互联网最干净实用的图文教程网站","课程;"
 "https://github.com/dylanaraps/pure-bash-bible","bash常用操作命令指南","收集各式各样bash操作技巧的仓库,运维老哥防加班必备","极客;"
 "https://hellowebbooks.com/learn-command-line/","以手绘形式学习终端命令行","内容包含一些简单的文件增删改查的操作,适合初学者,注册登陆即可免费下载或在线查看PDF,另外也售卖Kindle电子书,内容相同与PDF版基本相同,但阅读体验更好,需要另外付费","极客;课程;"
 "https://chai2010.cn/advanced-go-programming-book/","Go 高级编程","中文Go语言高级编程实体书的开源版本,在Github有开源仓库,支持在线阅读,未来高质量技术类书籍开源会是一种趋势","极客;课程;"
@@ -133,4 +127,7 @@ Url,Name,Description,Tag
 "https://github.com/DHDAXCW/NanoPi-R4S-R4SE","NanoPi R4S固件","zhaoolee自用的R4S科学上网小盒子固件","极客;"
 "https://chat.openai.com/chat","ChatGPT","OpenAI的聊天机器人,目前最强大的通用AI,注册方法可参考https://mirror.xyz/boxchen.eth/9O9CSqyKDj4BKUIil7NC1Sa1LJM-3hsPqaeW_QjfFBc","在线工具;"
 https://1024tools.com/,1024程序员开发工具箱,有 JSON 格式化、Base64编码解码、随机数、IP查询、代码高亮等等功能,在线工具;
-http://courier.toptopn.com/,网页更新监控,监控网页任一部分变化并提醒，适用于追踪价格变化,浏览器扩展
+http://courier.toptopn.com/,网页更新监控,监控网页任一部分变化并提醒，适用于追踪价格变化,浏览器扩展;
+"https://github.com/public-apis/public-apis","public-apis","汇集了各种开发的 API ，涵盖了音乐、新闻、书籍、日历、地理编码、机器学习、区块链等","API;"
+"https://github.com/TonnyL/Awesome_APIs","Awesome_APIs ","Awesome_APIs 提供的 API 包含了国内可用的接口，而且提供了注释，对开发者更友好，更实用","API;"
+"https://github.com/helloxz/onenav","OneNav ","OneNav是一款开源免费的书签（导航）管理程序,将浏览器书签集中式管理","导航;Docker项目"

@@ -1,9 +1,9 @@
-name: zhaoolee
+name: ins
 on:
   schedule:
-    - cron:  '0 22 * * *'    # 国际标准时间22点（北京时间早上6点发） 
+    - cron:  '0 22 * * *'    # 国际标准时间22点（北京时间早上6点发）
   push:
-    branches:    
+    branches:
       - main
 jobs:
   push:
@@ -29,8 +29,8 @@ jobs:
       - name: Commit and push if changed   # 更新README.md
         run: |
           git diff
-          git config --global user.email "zhaoolee@gmail.com"
-          git config --global user.name "zhaoolee"
+          git config --global user.email "1184664659@qq.com"
+          git config --global user.name "wenke"
           git add README.md
           git commit -m "Github Action auto Updated"
           git push
