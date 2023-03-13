@@ -9,7 +9,7 @@ import ssl
 import urllib.parse
 import OpenSSL
 from dateutil import parser
-import ntfy  # 推送消息到ntfy
+
 
 
 def get_host_info(url):
@@ -338,16 +338,16 @@ def main():
 
     new_read_me = replaceTemplate(new_read_me, tag_index_re, tag_index_info)
 
-    ntfy_url ='https://ntfy.wenke.live/'
-    ntfy_topic ='py'
+
+
     # 将生成的数据写入README.md
     with open(os.path.join(os.getcwd(), "README.md"), "w",encoding='UTF-8') as load_f:
         try:
             load_f.write(new_read_me)
-            ntfy.push_json("生成README.md成功",ntfy_url,ntfy_topic, title="ins检测网站工作流",tags='+1')
+
         except Exception as e:
             print("write error", e)
-            ntfy.push_json("生成README.md失败",ntfy_url,ntfy_topic, title="ins检测网站工作流",tags='warning')
+
 
 
 main()
